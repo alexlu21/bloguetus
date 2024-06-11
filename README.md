@@ -32,6 +32,9 @@
     ```
     npm run dev
     ```
+## Autores 🧑‍💻
+
+alexlugris - Desarrollo del blog y la integración de las APIs.
 
 ## Contribución 🤝
 
