@@ -1,1 +1,1 @@
-export const URL_BACKEND = "http://192.168.1.134:4000" 
+export const URL_BACKEND = "https://bloguetus.onrender.com" 
